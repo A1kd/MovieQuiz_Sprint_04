@@ -8,6 +8,8 @@ final class MovieQuizViewController: UIViewController {
     
     private var currentQuestionIndex = 0
     private var correctAnswers = 0
+
+
     
     
     struct QuizQuestion {
