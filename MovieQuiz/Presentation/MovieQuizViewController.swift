@@ -8,6 +8,8 @@ final class MovieQuizViewController: UIViewController {
     @IBOutlet private var yesButton: UIButton!
     @IBOutlet private var noButton: UIButton!
     
+    
+    
     private var currentQuestionIndex = 0
     private var correctAnswers = 0
     
